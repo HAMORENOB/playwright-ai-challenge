@@ -1,0 +1,19 @@
+# Dependencias
+node_modules/
+
+# Variables secretas
+.env
+
+# Estado de autenticación
+playwright/.auth/
+
+# Caché de Playwright
+playwright/.cache/
+
+# Resultados y reportes
+test-results/
+playwright-report/
+blob-report/
+allure-results/
+allure-report/
+`
